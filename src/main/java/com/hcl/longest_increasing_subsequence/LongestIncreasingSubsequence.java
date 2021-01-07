@@ -13,7 +13,7 @@ import java.util.TreeMap;
  * from SimpliLearn: An increasing subsequence that is not interrupted which
  * means it is continuous. For Example: { 2, 3, 4, 6, 1, 9, 12, 14, 16, 37, 99,
  * 98, 97, 0, -1, 10 }; The longest increasing subsequence is {1, 9, 12, 14, 16,
- * 37, 99}.
+ * 37, 99}
  */
 
 public class LongestIncreasingSubsequence {
