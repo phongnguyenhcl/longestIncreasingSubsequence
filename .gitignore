@@ -1,0 +1,10 @@
+/target/
+.settings
+target
+.project
+pom.xml
+.classpath
+src/test/*
+*.zip
+*.JPG
+*.txt
